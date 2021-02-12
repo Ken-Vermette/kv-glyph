@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg842"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="brand__apple-pay.svg">
+  <defs
+     id="defs836">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient931">
+      <stop
+         style="stop-color:#892b6d;stop-opacity:1;"
+         offset="0"
+         id="stop927" />
+      <stop
+         style="stop-color:#28618c;stop-opacity:1"
+         offset="1"
+         id="stop929" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient931"
+       id="linearGradient933"
+       x1="2.1166666"
+       y1="2.1166666"
+       x2="14.816667"
+       y2="14.816667"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="4.5247327"
+     inkscape:cy="10.9086"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1387"
+       empspacing="4" />
+    <sodipodi:guide
+       position="0.52916666,2.9104166"
+       orientation="1,0"
+       id="guide1389"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.9687499,5.8208332"
+       orientation="0,1"
+       id="guide1391"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.8208332,2.6458333"
+       orientation="1,0"
+       id="guide1393"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.5875,0.52916666"
+       orientation="0,1"
+       id="guide1395"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Guide"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.64998)"
+     style="opacity:1">
+    <path
+       d="m 1.5451698,294.35415 c -0.1953853,0 -0.1953853,-0.0427 -0.2735393,-0.0427 -0.078154,0 -0.078154,0.0427 -0.27353926,0.0427 -0.11723115,0 -0.46892458,-0.34193 -0.46892458,-0.68386 0,-0.23447 0.19538524,-0.48845 0.42984744,-0.48845 0.1576583,0 0.2052037,0.0781 0.3126164,0.0781 0.1074125,0 0.1953851,-0.0781 0.3126163,-0.0781 0.117231,0 0.2078392,0.0629 0.2735392,0.1563 -0.270622,0.16269 -0.2094885,0.52512 0.039076,0.62524 -0.069488,0.18247 -0.2344622,0.39077 -0.3516922,0.39077 z m -0.2222482,-1.19674 c -0.042389,-0.1582 0.1082402,-0.35294 0.317502,-0.39076 0.040706,0.21392 -0.161194,0.39076 -0.317502,0.39076 z"
+       id="path901"
+       style="stroke-width:0.00156428"
+       sodipodi:nodetypes="sssssazccsccc" />
+    <path
+       id="rect842"
+       style="fill:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 2.38125,292.76665 v 1.5875 h 0.2645833 v -0.52917 h 0.2645833 c 0.2922508,0 0.5291667,-0.23691 0.5291667,-0.52916 0,-0.29225 -0.2369159,-0.52917 -0.5291667,-0.52917 z m 0.2645833,0.26458 h 0.2645833 c 0.1461254,0 0.2645834,0.11845 0.2645834,0.26458 0,0.14612 -0.082275,0.26459 -0.2645834,0.26459 H 2.6458333 Z"
+       sodipodi:nodetypes="ccccsssccssscc" />
+    <path
+       id="path863"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 4.0736531,293.22606 c -0.257783,-0.0105 -0.3932576,0.11782 -0.3932576,0.11782 l 0.091467,0.21911 c 0.3257315,-0.18518 0.4551088,-0.0189 0.4588867,0.0915 -0.271014,-0.0295 -0.6593911,0.0716 -0.6593911,0.4346 0,0.0901 0.1166776,0.27337 0.3302124,0.27337 0.1080831,0 0.2226903,-0.004 0.3307292,-0.0315 v 0.0227 h 0.2656168 v -0.69402 c 7.4e-6,-0.15434 -0.095719,-0.37955 -0.3064412,-0.41961 -0.041768,-0.008 -0.080996,-0.0125 -0.1178224,-0.0139 z m 0.01757,0.63458 c 0.055134,-0.005 0.1057524,0.003 0.1410766,0.0238 v 0.16795 c -0.082829,0.0376 -0.3927409,0.14402 -0.3927409,-0.002 0,-0.10895 0.1323208,-0.17833 0.2516643,-0.19017 z" />
+    <path
+       id="path879"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 4.7247762,293.29582 0.4201293,1.04955 c -0.1133647,0.20897 -0.1739779,0.40566 -0.5146972,0.40566 v 0.26355 c 0.5296834,0 0.6401343,-0.32115 0.7803142,-0.60152 l 0.00156,-0.004 0.44544,-1.11363 H 5.571753 l -0.2806031,0.7028 -0.280603,-0.7028 z"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Icon"
+     style="display:none"
+     transform="translate(0,-10.583333)">
+    <circle
+       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path925"
+       cx="8.4666662"
+       cy="8.4666662"
+       r="7.4083333" />
+  </g>
+</svg>

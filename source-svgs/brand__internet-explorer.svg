@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg842"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="brand__internet-explorer.svg">
+  <defs
+     id="defs836" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="7.7708384"
+     inkscape:cy="10.897405"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1387"
+       empspacing="4"
+       spacingx="0.13229166"
+       spacingy="0.13229166" />
+    <sodipodi:guide
+       position="0.52916666,2.9104166"
+       orientation="1,0"
+       id="guide1389"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.9687499,5.8208332"
+       orientation="0,1"
+       id="guide1391"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.8208332,2.6458333"
+       orientation="1,0"
+       id="guide1393"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.5875,0.52916666"
+       orientation="0,1"
+       id="guide1395"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Guide"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.64998)"
+     style="opacity:1">
+    <path
+       id="path859"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.94868;stroke-linecap:square;stroke-opacity:0.528295;paint-order:stroke fill markers"
+       d="M 19.84375 1.2832031 A 4.9999998 13.999999 45 0 0 14.316406 3.3027344 A 8.9999989 8.9999998 0 0 0 12 3 A 8.9999989 8.9999998 0 0 0 11.990234 3 A 8.9999989 8.9999998 0 0 0 3.0917969 10.714844 C 7.6346734 6.3748884 11.033203 5.6386719 11.033203 5.6386719 C 10.067071 6.4237176 9.0920535 7.3005337 8.1347656 8.2578125 C 6.1062602 10.286317 4.440309 12.390133 3.2441406 14.333984 C 3.2386768 14.342864 3.2320067 14.352456 3.2265625 14.361328 A 4.9999998 13.999999 45 0 0 1.7714844 21.693359 A 4.9999998 13.999999 45 0 0 5.3457031 22.005859 A 4.5000001 13.500007 45 0 1 2.4785156 21.693359 A 4.5000001 13.500007 45 0 1 3.6835938 15.443359 A 8.9999989 8.9999998 0 0 0 12 21 A 8.9999989 8.9999998 0 0 0 20.775391 14 L 14.949219 14 C 14.711159 15.420726 13.490412 16.5 12 16.5 C 10.338 16.5 9 15.162 9 13.5 L 9 13 L 15 13 L 16 13 L 20.943359 13 A 8.9999989 8.9999998 0 0 0 21 12 A 8.9999989 8.9999998 0 0 0 15.494141 3.7050781 A 4.5000001 13.500007 45 0 1 21.570312 2.6015625 A 4.5000001 13.500007 45 0 1 21.878906 5.4804688 A 4.9999998 13.999999 45 0 0 21.570312 1.8945312 A 4.9999998 13.999999 45 0 0 19.84375 1.2832031 z M 12 7.5 C 13.662 7.5 15 8.838 15 10.5 L 15 11 L 9 11 L 9 10.5 C 9 8.838 10.338 7.5 12 7.5 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
+  </g>
+</svg>
