@@ -18,6 +18,12 @@
 .kvg-symbol__broom:before {
 	content: "\ea16";
 }
+.kvg-symbol__language-alt:before {
+	content: "\ea1a";
+}
+.kvg-symbol__language:before {
+	content: "\ea1b";
+}
 .kvg-brand__liberapay:before {
 	content: "\ea17";
 }
