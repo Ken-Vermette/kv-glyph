@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -16,29 +15,7 @@
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="symbol__clipboard.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
+     inkscape:zoom="24.493596"
      inkscape:cx="6.8945957"
      inkscape:cy="14.965685"
      inkscape:document-units="px"
@@ -110,18 +87,5 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        d="M 12 2 C 11.446 2 11 2.4459968 11 3 C 11 3.5540032 10.554 4 10 4 L 9 4 L 9 6 L 15 6 L 15 4 L 14 4 C 13.446 4 13 3.5540032 13 3 C 13 2.4459968 12.554 2 12 2 z M 5 4 L 5 20 L 19 20 L 19 4 L 16 4 L 16 6.0019531 L 17 6.0019531 L 17 17.996094 L 6.9980469 17.996094 L 6.9980469 6.0019531 L 8 6.0019531 L 8 4 L 5 4 z M 9 8 L 9 9 L 15 9 L 15 8 L 9 8 z M 9 10 L 9 11 L 15 11 L 15 10 L 9 10 z M 9 12 L 9 13 L 15 13 L 15 12 L 9 12 z M 9 14 L 9 15 L 11 15 L 11 14 L 9 14 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -16,29 +15,7 @@
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="symbol__clipboard-copy.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
+     inkscape:zoom="12.246797"
      inkscape:cx="6.0280822"
      inkscape:cy="13.971394"
      inkscape:document-units="px"
@@ -110,18 +87,5 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        d="M 12 2 C 11.446 2 11 2.4459968 11 3 C 11 3.5540032 10.554 4 10 4 L 9 4 L 9 6 L 15 6 L 15 4 L 14 4 C 13.446 4 13 3.5540032 13 3 C 13 2.4459968 12.554 2 12 2 z M 5 4 L 5 10 L 6.9980469 10 L 6.9980469 6.0019531 L 8 6.0019531 L 8 4 L 5 4 z M 16 4 L 16 6.0019531 L 17 6.0019531 L 17 17.996094 L 6.9980469 17.996094 L 6.9980469 14 L 5 14 L 5 20 L 19 20 L 19 4 L 16 4 z M 9.7070312 8.2890625 L 8.2890625 9.7070312 L 9.5859375 11 L 2 11 L 2 13 L 9.5839844 13 L 8.2890625 14.294922 L 9.7070312 15.705078 L 13.414062 11.998047 L 9.7070312 8.2890625 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

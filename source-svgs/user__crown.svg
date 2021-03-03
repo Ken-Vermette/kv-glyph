@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -16,29 +15,7 @@
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="user__crown.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="1.0824742"
      inkscape:cx="18.764308"
      inkscape:cy="10.984844"
      inkscape:document-units="mm"
@@ -119,18 +96,5 @@
        d="M 18,9.5000001 16.714844,11.5 15,12 13.5,11 15,15 c 1.5,-0.750009 4.500001,-0.750009 6,0 l 1.5,-4 -1.5,1 -1.714844,-0.5 z"
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)"
        sodipodi:nodetypes="cccccccccc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

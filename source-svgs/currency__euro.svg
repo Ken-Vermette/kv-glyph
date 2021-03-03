@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -13,32 +12,10 @@
    viewBox="0 0 6.3499999 6.3499999"
    version="1.1"
    id="svg842"
-   inkscape:version="1.0.1 (1.0.1+r74)"
-   sodipodi:docname="currency-euro.svg">
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="currency__euro.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
+     inkscape:zoom="34.639175"
      inkscape:cx="3.1865484"
      inkscape:cy="12.885888"
      inkscape:document-units="px"
@@ -111,18 +88,5 @@
        d="M 12,4 C 9.0175359,4 6.5640411,6.1562366 6.0898438,9 H 5 L 4.5,11 H 6 v 2 H 4 L 3.5,15 H 6.0898438 C 6.5640411,17.843763 9.0175359,20 12,20 c 1.969329,0 3.706138,-0.94354 4.798828,-2.400391 L 15.191406,16.394531 C 14.462929,17.365554 13.312719,18 12,18 10.13145,18 8.5823642,16.726287 8.1386719,15 H 11 l 0.5,-2 H 8 v -2 h 4 L 12.5,9 H 8.1386719 C 8.5823642,7.2736987 10.13145,6 12,6 c 1.312719,0 2.462929,0.6344486 3.191406,1.6054688 L 16.798828,6.4003906 C 15.706138,4.94354 13.969329,4 12,4 Z"
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)"
        sodipodi:nodetypes="sccccccccsccsccccccccsccs" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

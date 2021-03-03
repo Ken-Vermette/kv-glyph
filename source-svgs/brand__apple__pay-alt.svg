@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -16,29 +15,7 @@
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="brand__apple__pay-alt.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.319588"
+     inkscape:zoom="18.748008"
      inkscape:cx="12.790813"
      inkscape:cy="15.820554"
      inkscape:document-units="px"
@@ -112,18 +89,5 @@
        style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        d="M 2 4 C 0.89201632 4 0 4.8919937 0 6 L 0 18 C 0 19.107969 0.89201632 20 2 20 L 22 20 C 23.107984 20 24 19.107969 24 18 L 24 6 C 24 4.8919937 23.107984 4 22 4 L 2 4 z M 14.410156 7 C 14.64093 8.2127748 13.497485 9.2148438 12.611328 9.2148438 C 12.371014 8.3179618 13.223788 7.2144126 14.410156 7 z M 10.546875 9.3535156 C 11.440687 9.3535156 11.711358 9.796875 12.320312 9.796875 C 12.929266 9.796875 13.427178 9.3535156 14.091797 9.3535156 C 14.756415 9.3535156 15.270105 9.7109115 15.642578 10.240234 C 14.108341 11.162552 14.456048 13.217547 15.865234 13.785156 C 15.471286 14.819613 14.535706 16 13.871094 16 C 12.763396 16 12.763391 15.757812 12.320312 15.757812 C 11.877234 15.757812 11.877228 16 10.769531 16 C 10.104912 16 8.1113281 14.061567 8.1113281 12.123047 C 8.1113281 10.793787 9.2176389 9.3535156 10.546875 9.3535156 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -16,29 +15,7 @@
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="brand__amazon__pay.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="9.6409459"
-     inkscape:cy="10.629828"
+     inkscape:zoom="2.1649485"
+     inkscape:cx="-32.046201"
+     inkscape:cy="14.809188"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -113,18 +90,5 @@
        style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        d="M 2 4 C 0.89201632 4 0 4.8919937 0 6 L 0 18 C 0 19.107969 0.89201632 20 2 20 L 22 20 C 23.107984 20 24 19.107969 24 18 L 24 6 C 24 4.8919937 23.107984 4 22 4 L 2 4 z M 19.097656 10.576172 C 19.389719 10.59472 19.626383 10.665136 19.736328 10.8125 C 20.30657 11.576758 18.937954 13.46629 18.630859 13.451172 C 18.226583 13.430951 19.37792 11.854664 18.998047 11.332031 C 18.695344 10.915527 16.999517 11.534017 16.908203 11.173828 C 16.848142 10.936852 18.221467 10.520528 19.097656 10.576172 z M 4.1523438 10.878906 C 4.7222508 10.901815 7.9854197 12.957031 12.472656 12.957031 C 16.301765 12.957031 18.31848 11.27445 18.591797 11.630859 C 18.865111 11.98708 16.301765 14.066406 12.472656 14.066406 C 7.6862706 14.066406 3.8564536 11.185808 4.0742188 10.902344 C 4.0878291 10.884608 4.1143498 10.877379 4.1523438 10.878906 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

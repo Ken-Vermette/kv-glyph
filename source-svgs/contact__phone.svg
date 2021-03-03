@@ -12,8 +12,8 @@
    viewBox="0 0 6.3499999 6.3499999"
    version="1.1"
    id="svg842"
-   inkscape:version="1.0.1 (1.0.1+r74)"
-   sodipodi:docname="device-lphone.svg">
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="contact__phone.svg">
   <defs
      id="defs836" />
   <sodipodi:namedview
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
+     inkscape:zoom="24.493596"
      inkscape:cx="9.5817068"
      inkscape:cy="13.450404"
      inkscape:document-units="px"
-     inkscape:current-layer="g875"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      showguides="true"
@@ -96,10 +96,4 @@
       </g>
     </g>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:inline"
-     transform="translate(0,-10.583333)" />
 </svg>

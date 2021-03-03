@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -16,29 +15,7 @@
    inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="brand__amex__pay.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="37.496014"
+     inkscape:zoom="40.588469"
      inkscape:cx="13.781558"
      inkscape:cy="11.439396"
      inkscape:document-units="px"
@@ -114,18 +91,5 @@
        d="M 2,4 C 0.89201632,4 0,4.8919937 0,6 v 12 c 0,1.107969 0.89201632,2 2,2 h 20 c 1.107984,0 2,-0.892031 2,-2 V 6 C 24,4.8919937 23.107984,4 22,4 Z m 2.1875,2 h 1.875 L 8.25,11 H 6.375 L 6.041016,10 H 4.208984 L 3.875,11 H 2 Z M 9,6 h 2 L 12,9.5 13,6 h 2 v 5 H 13.5 V 8 l -1,3 h -1 l -1,-3 v 3 H 9 Z M 5.125,7.25 4.541016,9 H 5.708984 Z M 11,13 h 1.5 2.5 v 1 h -2.5 v 1 H 15 v 1 h -2.5 v 1 H 15 v 1 H 12.5 11 v -1 -1 -1 z m 5,0 h 1.566406 L 19,14.792969 20.433594,13 H 22 L 20.0625,15.5 22,18 H 20.433594 L 19,16.207031 17.566406,18 H 16 l 1.9375,-2.5 z"
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)"
        sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

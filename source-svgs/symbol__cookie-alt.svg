@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -13,32 +12,10 @@
    viewBox="0 0 6.3499999 6.3499999"
    version="1.1"
    id="svg842"
-   inkscape:version="1.0.1 (1.0.1+r74)"
-   sodipodi:docname="cookie.svg">
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="symbol__cookie-alt.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
+     inkscape:zoom="17.319588"
      inkscape:cx="14.571354"
      inkscape:cy="13.551301"
      inkscape:document-units="px"
@@ -113,18 +90,5 @@
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 13 2 C 11.217533 2.0578268 6.6550485 1.7874029 3.7285156 6.0742188 C 1.7904797 8.9129841 1.6739348 13.705857 3.296875 16.5625 C 4.9198154 19.419143 8.30388 22.03583 12.205078 22 C 16.106276 21.965984 20.199696 20.148037 21.521484 15.896484 C 22.843272 11.644894 21.210383 5.395281 18 3.2949219 C 16.394807 2.2447801 14.782467 1.9422488 13 2 z M 13 5.5 A 1.5 1.5 0 0 1 14.5 7 A 1.5 1.5 0 0 1 13 8.5 A 1.5 1.5 0 0 1 11.5 7 A 1.5 1.5 0 0 1 13 5.5 z M 7 9.5 A 1.5 1.5 0 0 1 8.5 11 A 1.5 1.5 0 0 1 7 12.5 A 1.5 1.5 0 0 1 5.5 11 A 1.5 1.5 0 0 1 7 9.5 z M 11.5 9.9980469 A 1 1 0 0 1 12.5 10.998047 A 1 1 0 0 1 11.5 11.998047 A 1 1 0 0 1 10.5 10.998047 A 1 1 0 0 1 11.5 9.9980469 z M 16.5 10.998047 A 1 1 0 0 1 17.5 11.998047 A 1 1 0 0 1 16.5 12.998047 A 1 1 0 0 1 15.5 11.998047 A 1 1 0 0 1 16.5 10.998047 z M 14 14.5 A 1.5 1.5 0 0 1 15.5 16 A 1.5 1.5 0 0 1 14 17.5 A 1.5 1.5 0 0 1 12.5 16 A 1.5 1.5 0 0 1 14 14.5 z M 9.5 15.998047 A 1 1 0 0 1 10.5 16.998047 A 1 1 0 0 1 9.5 17.998047 A 1 1 0 0 1 8.5 16.998047 A 1 1 0 0 1 9.5 15.998047 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>

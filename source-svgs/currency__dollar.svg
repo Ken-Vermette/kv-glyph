@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -13,32 +12,10 @@
    viewBox="0 0 6.3499999 6.3499999"
    version="1.1"
    id="svg842"
-   inkscape:version="1.0.1 (1.0.1+r74)"
-   sodipodi:docname="currency-dollar.svg">
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="currency__dollar.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
+     inkscape:zoom="17.319588"
      inkscape:cx="-2.3605381"
      inkscape:cy="9.1333396"
      inkscape:document-units="px"
@@ -111,18 +88,5 @@
        d="M 11,3 V 5.1269531 C 9.2339033,5.5829573 7.999971,7.1759832 8,9 c -1e-7,2.209139 1.790861,4 4,4 1.104563,1.5e-5 1.999985,0.895437 2,2 -1.5e-5,1.104563 -0.895437,1.999985 -2,2 -1.104563,-1.5e-5 -1.999985,-0.895437 -2,-2 -3.9e-5,-0.271293 0.05512,-0.539758 0.162109,-0.789062 L 8.3242188,13.423828 C 8.11049,13.921831 8.0001854,14.458071 8,15 c 8.612e-4,1.82329 1.2346071,3.415272 3,3.871094 V 21 h 2 V 18.873047 C 14.766097,18.417043 16.000029,16.824017 16,15 c 0,-2.209139 -1.790861,-4 -4,-4 -1.104563,-1.5e-5 -1.999985,-0.895437 -2,-2 1.5e-5,-1.1045632 0.895437,-1.9999849 2,-2 1.104563,1.51e-5 1.999985,0.8954368 2,2 3.9e-5,0.2712933 -0.05512,0.5397585 -0.162109,0.7890625 l 1.83789,0.7871095 C 15.88951,10.078169 15.999815,9.541929 16,9 15.999139,7.1767104 14.765393,5.5847284 13,5.1289062 V 3 Z"
        transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)"
        sodipodi:nodetypes="ccccccccccccccccccccccccc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
   </g>
 </svg>
