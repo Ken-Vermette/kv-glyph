@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -290.65)">
+  <path d="m2.1167 292.24c-0.29315 0-0.52917 0.23602-0.52917 0.52917v1.8976l0.52917-0.52917v-1.3684h2.1167v2.1167h-1.3684l-0.52917 0.52917h1.8976c0.29315 0 0.52917-0.23602 0.52917-0.52917v-2.1167c0-0.29315-0.23601-0.52917-0.52917-0.52917z" style="paint-order:fill markers stroke"/>
+  <path d="m2.3812 293.3-6e-7 0.53057 0.42-2e-3 -1.6838 1.6838 0.37417 0.37417 1.6835-1.6835 2.8e-6 0.42036 0.52911-1e-3v-1.3229z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

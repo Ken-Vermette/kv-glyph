@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <g transform="translate(0 -290.65)">
+  <path transform="matrix(.26458 0 0 .26458 0 290.65)" d="m12 2-8 8v10h16v-10l-8-8zm0.003906 2.8301 5.9922 6v7.168h-3.9961v-3.998h-4v3.998h-3.998v-7.168l6.002-6z"/>
+  <path d="m4.4979 291.71v0.39688l0.52917 0.52917v-0.92605z"/>
+ </g>
+</svg>

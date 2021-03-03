@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -290.65)">
+  <rect x=".52917" y="293.3" width=".52917" height="1.0583" style="paint-order:fill markers stroke"/>
+  <path d="m1.5875 293.3 1.3229-1.5875h0.52917v4.2333h-0.52917l-1.3229-1.5875z"/>
+  <rect x="3.9688" y="293.56" width="1.3229" height=".52917" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0583" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

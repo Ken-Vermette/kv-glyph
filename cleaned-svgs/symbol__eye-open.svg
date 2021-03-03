@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -290.65)">
+  <path transform="matrix(.26458 0 0 .26458 0 290.65)" d="m11 4v2.0547c-1.3415 0.11816-2.5287 0.4625-3.5664 0.92773l-1.3184-2.2812-1.7305 1 1.3008 2.252c-2.3524 1.5769-3.5449 3.5352-3.5449 3.5352l1.7207 1.0254s2.6981-4.5098 8.1426-4.5098c5.4444 0 8.1406 4.5098 8.1406 4.5098l1.7129-1.0254s-1.1892-1.9599-3.541-3.5371l1.2988-2.25-1.7305-1-1.3164 2.2793c-1.0378-0.46513-2.2261-0.80827-3.5684-0.92578v-2.0547h-2z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path transform="matrix(.26458 0 0 .26458 0 290.65)" d="m12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 2a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

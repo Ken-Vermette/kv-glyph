@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -290.65)" stroke-linecap="square" stroke-linejoin="round">
+  <rect x="1.0583" y="292.24" width="2.9104" height="2.1167" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+  <rect x="1.0583" y="294.62" width="4.2333" height=".2646" stroke-width=".52916" style="paint-order:stroke fill markers"/>
+  <rect x="1.0583" y="295.15" width="2.6458" height=".26458" stroke-width=".29581" style="paint-order:stroke fill markers"/>
+  <rect x="4.2333" y="294.09" width="1.0583" height=".26458" stroke-width=".30551" style="paint-order:stroke fill markers"/>
+  <rect x="4.2333" y="293.56" width="1.0583" height=".26458" stroke-width=".21603" style="paint-order:stroke fill markers"/>
+  <rect x="4.2333" y="293.03" width="1.0583" height=".26458" stroke-width=".37418" style="paint-order:stroke fill markers"/>
+  <rect x="4.2333" y="292.24" width="1.0583" height=".52916" stroke-width=".33467" style="paint-order:stroke fill markers"/>
+  <rect x="5.5563" y="291.71" width=".26458" height="4.2333" stroke-width=".23665" style="paint-order:stroke fill markers"/>
+  <rect x=".52917" y="291.71" width=".26458" height="4.2333" stroke-width=".23665" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

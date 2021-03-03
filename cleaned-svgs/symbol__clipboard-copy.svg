@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -290.65)">
+  <path transform="matrix(.26458 0 0 .26458 0 290.65)" d="m12 2c-0.554 0-1 0.446-1 1s-0.446 1-1 1h-1v2h6v-2h-1c-0.554 0-1-0.446-1-1s-0.446-1-1-1zm-7 2v6h1.998v-3.998h1.002v-2.002h-3zm11 0v2.002h1v11.994h-10.002v-3.9961h-1.998v6h14v-16h-3zm-6.293 4.2891-1.418 1.418 1.2969 1.293h-7.5859v2h7.584l-1.2949 1.2949 1.418 1.4102 3.707-3.707-3.707-3.709z" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

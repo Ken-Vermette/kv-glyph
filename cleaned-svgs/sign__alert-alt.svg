@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -290.65)">
+  <g transform="matrix(1 0 0 -1 0 588.18)">
+   <rect x="2.9104" y="293.82" width=".52917" height="1.5875" ry="0" style="paint-order:fill markers stroke"/>
+   <circle cx="3.175" cy="293.03" r=".39687" style="paint-order:fill markers stroke"/>
+  </g>
+  <path d="m2.9104 291.18-2.6155 4.9029 0.23424 0.38878h5.2917l0.23385-0.38878-2.6151-4.9029zm0.26536 0.61577 2.2051 4.1465h-4.4102z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

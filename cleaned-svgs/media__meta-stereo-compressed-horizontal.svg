@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -290.65)">
+  <path transform="matrix(.26458 0 0 .26458 0 290.65)" d="m4.127 5 1.041 1.5566c2.5243 3.7677 2.4677 7.1675 0 10.889l-1.0332 1.5566h15.76l-0.91016-1.5645c-2.6443-3.8824-2.333-7.265 0.015625-10.896l0.83594-1.541h-15.709zm3.2031 2h3.6699v2h2v-2h3.6543c-2.0868 3.0752-2.3287 6.4323 0.021484 10.002h-3.6758v-2.002h-2v2.002h-3.6621c2.1479-3.1027 2.2877-6.4557-0.0078125-10.002z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:stroke markers fill;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path transform="matrix(.26458 0 0 .26458 0 290.65)" d="m2.709 8.291-1.418 1.418 1.2949 1.291h-2.5859v2h2.5859l-1.2949 1.293 1.418 1.418 3.7051-3.7129-3.7051-3.707z" style="paint-order:stroke markers fill"/>
+  <path d="m5.6332 292.84 0.37517 0.37517-0.34261 0.34158h0.6842v0.52917h-0.6842l0.34261 0.3421-0.37517 0.37517-0.9803-0.98237z" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>
