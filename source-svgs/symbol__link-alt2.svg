@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="24"
@@ -14,31 +13,9 @@
    version="1.1"
    id="svg842"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="symbol__page-break.svg">
+   sodipodi:docname="symbol__link-alt2.svg">
   <defs
-     id="defs836">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient931">
-      <stop
-         style="stop-color:#892b6d;stop-opacity:1;"
-         offset="0"
-         id="stop927" />
-      <stop
-         style="stop-color:#28618c;stop-opacity:1"
-         offset="1"
-         id="stop929" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient931"
-       id="linearGradient933"
-       x1="2.1166666"
-       y1="2.1166666"
-       x2="14.816667"
-       y2="14.816667"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs836" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,12 +23,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.639175"
-     inkscape:cx="9.3410021"
-     inkscape:cy="10.351636"
+     inkscape:zoom="1"
+     inkscape:cx="11.00167"
+     inkscape:cy="18.405643"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -106,43 +83,14 @@
      id="layer1"
      transform="translate(0,-290.64998)">
     <path
-       id="rect842"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,294.35411 v 2.11667 H 1.0583333 v -1.5875 h 4.2333333 v 1.5875 h 0.5291667 v -2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
+       id="rect836-3"
+       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 3.7362658,293.2637 c -0.064881,-0.0649 -0.1373771,-0.11616 -0.2126741,-0.16077 l -0.3482359,0.34824 c -0.016829,0.0168 -0.026375,0.0364 -0.03797,0.0555 0.081908,0.0243 0.1597362,0.0662 0.2246932,0.13121 0.2072942,0.20729 0.2072931,0.54106 -2.3e-6,0.74836 l -1.3096184,1.30962 c -0.2072954,0.20729 -0.5410628,0.20729 -0.748357,0 -0.2072942,-0.2073 -0.2072931,-0.54106 2.3e-6,-0.74836 l 0.561266,-0.56126 0.266749,-0.26675 c -0.084059,-0.21573 -0.1065854,-0.44836 -0.073445,-0.67491 l -0.5674815,0.56748 -0.56126598,0.56126 c -0.41459084,0.41459 -0.41459325,1.08213 -4.73e-6,1.49672 0.41458851,0.41459 1.08212321,0.41458 1.49671401,-10e-6 l 1.3096184,-1.30962 c 0.4145837,-0.41458 0.4145932,-1.08212 4.7e-6,-1.49671 z"
+       sodipodi:nodetypes="ccscsssssccccsssscc" />
     <path
-       id="rect842-3"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,293.29582 v -2.11667 H 1.0583333 v 1.5875 h 4.2333333 v -1.5875 h 0.5291667 v 2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <rect
+       id="rect836-3-3"
        style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect843"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
-       y="295.14789"
-       ry="0.13229166" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect845"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
-       y="292.23749"
-       ry="0.13229166" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Icon"
-     style="display:none"
-     transform="translate(0,-10.583333)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path925"
-       cx="8.4666662"
-       cy="8.4666662"
-       r="7.4083333" />
+       d="m 2.6137268,294.38624 c 0.064881,0.0649 0.1373771,0.11617 0.2126741,0.16078 l 0.3482359,-0.34824 c 0.016829,-0.0168 0.026375,-0.0364 0.037971,-0.0555 -0.08191,-0.0243 -0.1597371,-0.0663 -0.2246942,-0.13121 -0.2072942,-0.2073 -0.2072931,-0.54107 2.4e-6,-0.74836 l 1.3096183,-1.30962 c 0.2072954,-0.20729 0.5410628,-0.2073 0.748357,0 0.2072943,0.20729 0.2072931,0.54106 -2.3e-6,0.74836 l -0.561266,0.56126 -0.266749,0.26675 c 0.084059,0.21572 0.1065855,0.44836 0.073445,0.67491 l 0.5674815,-0.56748 0.561266,-0.56127 c 0.4145909,-0.41459 0.4145933,-1.08212 4.7e-6,-1.49671 -0.4145885,-0.41459 -1.0821232,-0.41459 -1.496714,0 l -1.3096183,1.30962 c -0.4145838,0.41459 -0.4145933,1.08213 -4.8e-6,1.49672 z"
+       sodipodi:nodetypes="ccscsssssccccsssscc" />
   </g>
 </svg>

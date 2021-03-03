@@ -14,7 +14,7 @@
    version="1.1"
    id="svg842"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="symbol__page-break.svg">
+   sodipodi:docname="brand__apple__pay-alt.svg">
   <defs
      id="defs836">
     <linearGradient
@@ -46,14 +46,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.639175"
-     inkscape:cx="9.3410021"
-     inkscape:cy="10.351636"
+     inkscape:zoom="17.319588"
+     inkscape:cx="12.790813"
+     inkscape:cy="15.820554"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -62,7 +62,8 @@
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid1387"
@@ -104,33 +105,13 @@
      inkscape:label="Guide"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-290.64998)">
+     transform="translate(0,-290.64998)"
+     style="opacity:1">
     <path
-       id="rect842"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,294.35411 v 2.11667 H 1.0583333 v -1.5875 h 4.2333333 v 1.5875 h 0.5291667 v -2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       id="rect842-3"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,293.29582 v -2.11667 H 1.0583333 v 1.5875 h 4.2333333 v -1.5875 h 0.5291667 v 2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect843"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
-       y="295.14789"
-       ry="0.13229166" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect845"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
-       y="292.23749"
-       ry="0.13229166" />
+       style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 2 4 C 0.89201632 4 0 4.8919937 0 6 L 0 18 C 0 19.107969 0.89201632 20 2 20 L 22 20 C 23.107984 20 24 19.107969 24 18 L 24 6 C 24 4.8919937 23.107984 4 22 4 L 2 4 z M 14.410156 7 C 14.64093 8.2127748 13.497485 9.2148438 12.611328 9.2148438 C 12.371014 8.3179618 13.223788 7.2144126 14.410156 7 z M 10.546875 9.3535156 C 11.440687 9.3535156 11.711358 9.796875 12.320312 9.796875 C 12.929266 9.796875 13.427178 9.3535156 14.091797 9.3535156 C 14.756415 9.3535156 15.270105 9.7109115 15.642578 10.240234 C 14.108341 11.162552 14.456048 13.217547 15.865234 13.785156 C 15.471286 14.819613 14.535706 16 13.871094 16 C 12.763396 16 12.763391 15.757812 12.320312 15.757812 C 11.877234 15.757812 11.877228 16 10.769531 16 C 10.104912 16 8.1113281 14.061567 8.1113281 12.123047 C 8.1113281 10.793787 9.2176389 9.3535156 10.546875 9.3535156 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
   </g>
   <g
      inkscape:groupmode="layer"

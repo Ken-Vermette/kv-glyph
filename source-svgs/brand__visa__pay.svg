@@ -14,7 +14,7 @@
    version="1.1"
    id="svg842"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="symbol__page-break.svg">
+   sodipodi:docname="brand__visa__pay.svg">
   <defs
      id="defs836">
     <linearGradient
@@ -46,14 +46,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.639175"
-     inkscape:cx="9.3410021"
-     inkscape:cy="10.351636"
+     inkscape:zoom="1"
+     inkscape:cx="7.7687535"
+     inkscape:cy="18.354556"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -62,7 +62,9 @@
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid1387"
@@ -104,33 +106,14 @@
      inkscape:label="Guide"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-290.64998)">
+     transform="translate(0,-290.64998)"
+     style="opacity:1">
     <path
-       id="rect842"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,294.35411 v 2.11667 H 1.0583333 v -1.5875 h 4.2333333 v 1.5875 h 0.5291667 v -2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       id="rect842-3"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,293.29582 v -2.11667 H 1.0583333 v 1.5875 h 4.2333333 v -1.5875 h 0.5291667 v 2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect843"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
-       y="295.14789"
-       ry="0.13229166" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect845"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
-       y="292.23749"
-       ry="0.13229166" />
+       style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 2,4 C 0.89201632,4 0,4.8919937 0,6 v 12 c 0,1.107969 0.89201632,2 2,2 h 20 c 1.107984,0 2,-0.892031 2,-2 V 6 C 24,4.8919937 23.107984,4 22,4 Z M 9.6968907,8.9980469 7.2183751,15 5.8355626,14.998094 4.7359532,10.011719 C 4.593044,9.4783518 3.2322476,9.6215433 3.3140782,9 H 5.7418126 L 6.6656407,13.199219 8.4000157,9 Z M 10.403922,9 h 1.234375 l -1.318359,5.998047 H 9.0855626 Z m 7.855469,0 h 0.646484 l 1.248047,5.998047 H 18.92736 L 18.679313,13.798828 H 16.806266 L 16.345328,14.998047 15,15 17.066032,9.8007812 C 17.383722,8.976882 17.912336,9 18.259391,9 Z m -3.828125,0.00781 c 0.478007,0.033865 0.978115,0.1865482 1.460938,0.484375 l -0.669922,1.093751 c -0.826421,-0.510313 -1.618759,-0.265193 -1.925782,0.02734 -0.153515,0.146646 -0.16629,0.228778 -0.152343,0.283203 0.01399,0.05386 0.104872,0.236803 0.576171,0.414063 0.73134,0.27549 1.256207,0.708942 1.464844,1.283203 0.208635,0.574261 0.02364,1.206568 -0.367187,1.625 -0.781657,0.83777 -2.269115,1.077997 -3.873047,0.332031 L 11.484,13.388672 c 1.228958,0.572712 2.127782,0.253158 2.398438,-0.03711 0.13536,-0.145133 0.142006,-0.214863 0.103516,-0.320312 -0.03846,-0.105638 -0.209059,-0.326334 -0.716797,-0.517578 -0.705523,-0.265814 -1.211308,-0.711514 -1.361329,-1.294922 -0.150021,-0.583332 0.10957,-1.15588 0.501954,-1.5292969 0.490478,-0.467452 1.224804,-0.7383335 2.021484,-0.6816406 z m 3.59375,1.634766 -0.753906,1.957031 h 1.158203 z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)"
+       sodipodi:nodetypes="sssssssssccccccccccccccsccccccccsccccccscccccccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"

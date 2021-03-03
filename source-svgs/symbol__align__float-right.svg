@@ -14,7 +14,7 @@
    version="1.1"
    id="svg842"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="symbol__page-break.svg">
+   sodipodi:docname="symbol__align__float-right.svg">
   <defs
      id="defs836">
     <linearGradient
@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.639175"
-     inkscape:cx="9.3410021"
-     inkscape:cy="10.351636"
+     inkscape:zoom="28.700382"
+     inkscape:cx="13.068331"
+     inkscape:cy="10.990157"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -73,7 +73,7 @@
        id="guide1389"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="3.9687499,5.8208332"
+       position="1.3229166,5.8208332"
        orientation="0,1"
        id="guide1391"
        inkscape:locked="false" />
@@ -105,32 +105,76 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-290.64998)">
-    <path
+    <rect
+       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect842"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,294.35411 v 2.11667 H 1.0583333 v -1.5875 h 4.2333333 v 1.5875 h 0.5291667 v -2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       id="rect842-3"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,293.29582 v -2.11667 H 1.0583333 v 1.5875 h 4.2333333 v -1.5875 h 0.5291667 v 2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect843"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
-       y="295.14789"
-       ry="0.13229166" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect845"
-       width="1.0583333"
-       height="0.26458332"
-       x="2.6458333"
+       width="2.9104166"
+       height="2.1166461"
+       x="-5.2916665"
        y="292.23749"
-       ry="0.13229166" />
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.529165;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect846"
+       width="4.2333326"
+       height="0.26457083"
+       x="-5.2916665"
+       y="294.61874"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.295812;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect848"
+       width="1.5874993"
+       height="0.264579"
+       x="-5.2916665"
+       y="295.14789"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.305514;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect850"
+       width="1.0583333"
+       height="0.26458332"
+       x="-2.1166666"
+       y="294.08957"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.216031;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect852"
+       width="1.0583333"
+       height="0.26458332"
+       x="-2.116668"
+       y="293.56042"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.374177;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect854"
+       width="1.0583333"
+       height="0.26458332"
+       x="-2.116668"
+       y="293.03125"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.334671;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect856"
+       width="1.0583333"
+       height="0.52915883"
+       x="-2.116668"
+       y="292.23749"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.23665;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect4373"
+       width="0.26458332"
+       height="4.2333336"
+       x="0.52916664"
+       y="291.70831" />
+    <rect
+       style="fill:#000000;stroke-width:0.23665;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect4375"
+       width="0.26458329"
+       height="4.2333336"
+       x="5.5562501"
+       y="291.70831" />
   </g>
   <g
      inkscape:groupmode="layer"
