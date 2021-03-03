@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="40.588469"
-     inkscape:cx="9.3410021"
-     inkscape:cy="10.351636"
+     inkscape:zoom="23.779779"
+     inkscape:cx="5.8364339"
+     inkscape:cy="10.350069"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -84,13 +84,8 @@
      transform="translate(0,-290.64998)">
     <path
        id="rect842"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,294.35411 v 2.11667 H 1.0583333 v -1.5875 h 4.2333333 v 1.5875 h 0.5291667 v -2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       id="rect842-3"
-       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:1.05833;stroke-linecap:square;paint-order:stroke fill markers"
-       d="m 0.52916666,293.29582 v -2.11667 H 1.0583333 v 1.5875 h 4.2333333 v -1.5875 h 0.5291667 v 2.11667 z"
-       sodipodi:nodetypes="ccccccccc" />
+       style="fill:#000000;fill-opacity:0.947002;stroke:none;stroke-width:3.99999;stroke-linecap:square;paint-order:stroke fill markers"
+       d="M 2 2 L 2 10 L 22 10 L 22 2 L 20 2 L 20 8 L 4 8 L 4 2 L 2 2 z M 2 14 L 2 22 L 4 22 L 4 16 L 20 16 L 20 22 L 22 22 L 22 14 L 2 14 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)" />
   </g>
 </svg>
